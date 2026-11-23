@@ -1,1 +1,1 @@
-# rv32arch_encoder
+# rv32i_encoder
